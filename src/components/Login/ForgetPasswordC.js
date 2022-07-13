@@ -17,7 +17,7 @@ const ForgetPasswordC = (props) => {
                         className="roleUser-input form-check-input"
                         id="checkbox"
                     />
-                    <label htmlFor="checkbox" for="flexSwitchCheckDefault" >Professeur</label>
+                    <label style={{paddingLeft: '10px'}} htmlFor="checkbox" for="flexSwitchCheckDefault" >Professeur</label>
                 </form> 
             </div>
 

@@ -3,7 +3,7 @@ import LeftPart from "../components/Login/LeftPart";
 import LoginComponent from "../components/Login/LoginC";
 import "../styles/Auth/Auth.css";
 
-const Login = (props) => {
+function Login(props) {
     return (
         //ecrire le code ici
         <div className="auth-component" >

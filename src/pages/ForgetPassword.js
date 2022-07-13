@@ -3,7 +3,7 @@ import LeftPart from "../components/Login/LeftPart";
 import ForgetPasswordC from "../components/Login/ForgetPasswordC";
 import "../styles/Auth/Auth.css";
 
-const ForgetPassword = (props) => {
+function ForgetPassword(props) {
     return (
         //ecrire le code ici
         <div className="auth-component" >

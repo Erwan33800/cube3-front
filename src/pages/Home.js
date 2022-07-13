@@ -1,10 +1,14 @@
 import React from "react";
+import Header from "../components/Header/Header";
+import Menu from "../components/Menu/Menu";
+import "../styles/Home/Home.css";
 
 const Home = (props) => {
     return (
         //ecrire le code ici
         <div>
-            <h1>HOME</h1>
+            <Header />
+            <Menu />
         </div>
     );
 };

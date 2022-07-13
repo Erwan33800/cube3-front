@@ -1,0 +1,17 @@
+.header-component{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: #072872;
+    color: white;
+    padding: 0 20px;
+}
+.deconnexion-btn{
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    margin-left: 20px;
+    cursor: pointer;
+    background-color: #072872;
+}

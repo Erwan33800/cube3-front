@@ -1,0 +1,49 @@
+/* CSS MENU */
+
+.menu-component{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    color: white;
+    padding: 0 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+}
+.bgc-card{
+    border-radius: 5%;
+    height: 128px;
+    background-color: #F5F5F5;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 40px;
+}
+.bgc-card2{
+    border-radius: 5%;
+    height: 330px;
+    background-color: #F5F5F5;
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.menu-card{
+    margin-top: 40px;
+}
+.menu-card h2{
+    margin-top: 15px;
+    font-size: 18px; 
+    text-align: center;
+}
+.menu-card a{
+    text-decoration: none;
+    color: black;
+}
+.cours-card2{
+    font-size: 1rem;
+    margin-bottom: 25px;
+}
+
+/* FIN CSS MENU */
